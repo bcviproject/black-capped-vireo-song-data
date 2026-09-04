@@ -141,21 +141,22 @@ avg_song_bandwidth: average song bandwidth (Hz)
 
 avg_note_bandwidth: average note bandwidth (Hz)
 
+
 File: Raw_Raven_Song_Measurements.csv
 
 Description: 
 
-Variables
+Variables:
 
 File Name: file name
 
-# Song Type: unique song type (a-z)
+Number Song Types: unique song type (a-z)
 
-# Notes: number of notes in song
+Number Notes: number of notes in song 
 
-# Unique Note Types: number of total unique note types per individual
+Number Unique Note Types: number of total unique note types per individual
 
-# Note Types: number of note types per song
+Number Note Types: number of note types per song
 
 Song Length: song length (seconds)
 
